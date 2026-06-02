@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauã Bernardes! 👋
+# Olá, eu sou o Kauã Bernardes!
 
 Busco constantemente conectar o mundo do desenvolvimento de software com a engenharia de hardware. Sou técnico em Informática para Internet, pesquisador de iniciação científica, desenvolvedor full-stack (Web e Android) e entusiasta de robótica, focado em criar soluções robustas, escaláveis e eficientes.
 
@@ -17,7 +17,7 @@ Busco constantemente conectar o mundo do desenvolvimento de software com a engen
 
 ### **Sistemas & Web Full-Stack**
 - **Linguagens:** TypeScript, JavaScript, SQL
-- **Front-end:** Next.js, React, React-Bootstrap
+- **Front-end:** React, React-Bootstrap
 - **Back-end & DB:** Node.js, NestJS, TypeORM, PostgreSQL
 
 ### **Mobile**
@@ -33,7 +33,7 @@ Busco constantemente conectar o mundo do desenvolvimento de software com a engen
 
 ### 🌌 **Lumen**
 Plataforma de gerenciamento de estudos e comunidade, focada em conectar estudantes e centralizar trilhas de aprendizado. (Projeto Final de Curso).
-*Tags: Next.js, Node.js, TypeScript, PostgreSQL*
+*Tags: Nest.js, Node.js, TypeScript, PostgreSQL*
 
 ### 🤖 **TMTR Scoring System**
 Sistema de gerenciamento em tempo real e painel de pontuação ao vivo (*live scoreboard*) desenvolvido especificamente para torneios de robótica.
@@ -42,15 +42,6 @@ Sistema de gerenciamento em tempo real e painel de pontuação ao vivo (*live sc
 ### 📝 **PCES Manager System**
 Sistema de gerenciamento de documentos e geração de relatórios desenvolvido para otimizar fluxos de trabalho institucionais.
 *Tags: NestJS, API Rest, TypeORM, PostgreSQL*
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauabernardes&show_icons=true&theme=gotham" alt="Status do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabernardes&layout=compact&theme=gotham" alt="Linguagens Mais Usadas" height="180px"/>
-</p>
 
 ---
 
