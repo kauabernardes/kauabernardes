@@ -1,6 +1,6 @@
-# Olá, eu sou o Kauã Alexandre! 👋
+# Olá, eu sou o Kauã Bernardes! 👋
 
-Busco constantemente conectar o mundo do desenvolvimento de software com a engenharia de hardware. Sou técnico em Informática para Internet, pesquisador de iniciação científica e entusiasta de robótica, focado em criar soluções robustas, escaláveis e eficientes.
+Busco constantemente conectar o mundo do desenvolvimento de software com a engenharia de hardware. Sou técnico em Informática para Internet, pesquisador de iniciação científica, desenvolvedor full-stack (Web e Android) e entusiasta de robótica, focado em criar soluções robustas, escaláveis e eficientes.
 
 ---
 
@@ -37,27 +37,27 @@ Plataforma de gerenciamento de estudos e comunidade, focada em conectar estudant
 
 ### 🤖 **TMTR Scoring System**
 Sistema de gerenciamento em tempo real e painel de pontuação ao vivo (*live scoreboard*) desenvolvido especificamente para torneios de robótica.
-*Tags: Node.js, WebSockets, Frontend, IoT Integration*
+*Tags: Node.js, WebSockets, React, Real Time Application*
 
 ### 📝 **PCES Manager System**
 Sistema de gerenciamento de documentos e geração de relatórios desenvolvido para otimizar fluxos de trabalho institucionais.
-*Tags: NestJS, API Rest, TypeORM*
+*Tags: NestJS, API Rest, TypeORM, PostgreSQL*
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham" alt="Status do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=gotham" alt="Linguagens Mais Usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kauabernardes&show_icons=true&theme=gotham" alt="Status do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabernardes&layout=compact&theme=gotham" alt="Linguagens Mais Usadas" height="180px"/>
 </p>
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-- **E-mail:** [seu.email@provedor.com]
+- **LinkedIn:** [Kauã Bernardes](https://linkedin.com/in/kauabernardes)
+- **E-mail:** [kauabernardes001@gmail.com]
 
 ---
 
