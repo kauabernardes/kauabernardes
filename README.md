@@ -20,7 +20,7 @@ O projeto envolve o gerenciamento do fluxo de denúncias e documentos, além de 
 
 `React` `NestJS` `TypeScript` `PostgreSQL` `Mistral AI`
 
-[Repositório] · [Demo]
+[Repositório Privado](https://www.github.com/gdpces/backend)
 
 ---
 
@@ -32,7 +32,7 @@ A proposta é centralizar trilhas de aprendizado e recursos relacionados aos est
 
 `NestJS` `Node.js` `TypeScript` `PostgreSQL` `Websockets` `Android` `Kotlin`
 
-[Repositório] · [Demo]
+[Lumen Backend](https://www.github.com/kauabernardes/lumen-backend) · [Lumen Web](https://www.github.com/kauabernardes/lumen-frontend) · [Lumen Web](https://www.github.com/kauabernardes/lumen-android)
 
 ---
 
@@ -42,9 +42,9 @@ Sistema de gerenciamento e pontuação em tempo real desenvolvido para torneios 
 
 O projeto conta com um painel de pontuação ao vivo e comunicação em tempo real entre as partes da aplicação.
 
-`Node.js` `React` `WebSockets`
+`NestJS` `React` `WebSockets`
 
-[Repositório] · [Demo]
+[Repositório](https://github.com/kauabernardes/tmtr-system)
 
 ---
 
