@@ -1,7 +1,8 @@
-# Olá, eu sou o Kauã Bernardes!
+# Kauã Bernardes
 
-Busco constantemente conectar o mundo do desenvolvimento de software com a engenharia de hardware. Sou técnico em Informática para Internet, pesquisador de iniciação científica, desenvolvedor full-stack (Web e Android) e entusiasta de robótica, focado em criar soluções robustas, escaláveis e eficientes.
+##`Desenvolvedor Fullstack`##
 
+Me chamo Kauã, hoje tenho 19 anos e sou do Espírito Santo. Sou formado como Técnico em Informática p/ Internet pelo IFES e prossigo com estudos voltado para desenvolvimento de aplicações. Sempre gostei de tecnologia e mexer em computador desde criança então a área de desenvolvimento é meu foco. Tenho vasta experiência com o ecossistema Node.js.
 ---
 
 ## 🚀 Sobre Mim
