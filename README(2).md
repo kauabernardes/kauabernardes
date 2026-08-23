@@ -4,7 +4,7 @@
 
 Sou Técnico em Informática para Internet pelo IFES – Campus Serra e trabalho principalmente com desenvolvimento web e backend.
 
-Tenho desenvolvido aplicações com JavaScript e TypeScript, principalmente utilizando Node.js e NestJS. Também trabalho com Python, React, React Native, PostgreSQL e outras tecnologias conforme a necessidade de cada projeto.
+Tenho desenvolvido aplicações com JavaScript e TypeScript, principalmente utilizando Node.js e NestJS. Também trabalho com Python, React, PostgreSQL e outras tecnologias conforme a necessidade de cada projeto.
 
 Nos últimos projetos, tenho trabalhado bastante com APIs, autenticação, processamento de documentos, OCR, inteligência artificial e processamento assíncrono.
 
@@ -18,7 +18,7 @@ Sistema de gerenciamento de denúncias desenvolvido para a Delegacia Especializa
 
 O projeto envolve o gerenciamento do fluxo de denúncias e documentos, além de recursos para processamento de informações e integração com serviços de inteligência artificial.
 
-`NestJS` `TypeScript` `PostgreSQL` `Redis` `BullMQ`
+`React` `NestJS` `TypeScript` `PostgreSQL` `Mistral AI`
 
 [Repositório] · [Demo]
 
@@ -30,7 +30,7 @@ Plataforma de gerenciamento de estudos e comunidade, desenvolvida como Projeto F
 
 A proposta é centralizar trilhas de aprendizado e recursos relacionados aos estudos em uma única plataforma.
 
-`NestJS` `Node.js` `TypeScript` `PostgreSQL`
+`NestJS` `Node.js` `TypeScript` `PostgreSQL` `Websockets` `Android` `Kotlin`
 
 [Repositório] · [Demo]
 
@@ -50,15 +50,15 @@ O projeto conta com um painel de pontuação ao vivo e comunicação em tempo re
 
 ## Tecnologias
 
-**Backend:** Node.js, NestJS, Django, Flask
+**Backend:** Node.js, NestJS
 
-**Frontend:** React, React Native, Tailwind CSS
+**Frontend:** React, Bootstrap, Tailwind CSS, Android XML
 
-**Linguagens:** TypeScript, JavaScript, Python
+**Linguagens:** TypeScript, JavaScript, Python, Kotlin
 
-**Banco de dados:** PostgreSQL, MongoDB
+**Banco de dados:** PostgreSQL, Firebase
 
-**Outros:** Redis, BullMQ, APIs, OCR e integração com IA
+**Outros:** APIs, OCR e integração com IA
 
 ---
 
